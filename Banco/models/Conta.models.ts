@@ -1,3 +1,4 @@
+import { TipoConta } from "Banco/enum/TipoConta.enum";
 import { Cliente } from "./Cliente.models";
 
 export class Conta {
